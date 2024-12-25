@@ -10,7 +10,7 @@
 mkdir -p /data/system/fuckmiui
 touch /data/system/fuckmiui/${feature}
 ```
-
+.
 feature 为你想要开启的功能（详见下方标题）
 
 如果创建了名为 `disable` 的文件，则会关闭所有功能，便于系统无法启动的时候排查问题。
